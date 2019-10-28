@@ -31,3 +31,17 @@ else{
  
   return 0;
 }
+
+/*
+int buscar(int a[],int v,int t){
+  for(int i=0;i<t;i++){
+    if(a[i]==v){
+      return i;
+    }
+
+  }
+return -1;
+
+
+
+*/
