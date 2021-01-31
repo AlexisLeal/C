@@ -1,0 +1,17 @@
+Arrays bidemnecionsales 
+
+
+tipodedato nombredelarray [numero de filas] [numero de columnas];
+
+
+
+int arrays [2][3]; ---> 1 2 3
+						4 5 6
+
+
+int arrays [2][3] = {{1,2,3},{4,5,6}}; ----> 1 2 3
+		      primera fila					 4 5 6
+
+
+
+printf("%i",arrays[1][2]); == 3

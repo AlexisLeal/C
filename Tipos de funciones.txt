@@ -1,0 +1,12 @@
+Existe dos funciones 
+
+Las void que no tiene retorno de valor 
+
+
+Y las que pones el tipo de dato estas si tienen retorno de valor 
+
+
+
+La funcion es cuando hacemos esto x =funcion(n1....); retorna
+
+y procedicmiento es esto funcion(); no retorna

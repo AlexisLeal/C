@@ -1,0 +1,27 @@
+estructuras 
+
+es una coleccion de datos de diferentes tipos por ejemplo cd 
+
+
+la sintaxis es la siguiente 
+
+struck(eslapalabrar reservanda) CD(el nombre de la estructura){
+	char titulo[10]; esto se le llama miembro 
+	char artista[10];
+	int numcanciones;
+	float precio;
+};
+
+esta es la sintaxis basica 
+
+la forma sinalizar es la siguiente
+
+
+struck CD{
+	char titulo[10];
+	char artista[10];
+	int numcaciones;
+	float precio;
+}CD1,CD2,CD3;
+
+Los CDn contiene todos los datos de CD y lo podemos llamar uno por uno con CD1.titulo CD2.artista y asi n veces

@@ -1,0 +1,5 @@
+Para instalar C ocupar un IDE de preferencia Sublime Text 
+
+Despues de tener sublime Text instalado vas ocupar instalar GCC y modificar las variables de entorno 
+
+este es el link http://www.equation.com/servlet/equation.cmd?fa=fortran
